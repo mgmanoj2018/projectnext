@@ -7,8 +7,8 @@ import CreateEventDrawer from "@/components/create-event";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Schedulrr",
-  description: " ",
+  title: "Meeting  scheduling  application",
+  description: "Schedulrr is a user-friendly meeting scheduling application that allows individuals and professionals to easily create events, manage their availability, and let others book meetings through a personalized link. It eliminates the back-and-forth of scheduling by automatically displaying available slots, handling time zones, and sending confirmations. ",
 };
 
 export default function RootLayout({ children }) {
